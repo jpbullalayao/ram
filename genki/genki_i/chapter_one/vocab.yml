@@ -1,0 +1,201 @@
+- jp_word: おはよう
+  roumaji: ohayou
+  english_translation: Good morning
+- jp_word: おはようございます
+  roumaji: ohayou gozaimasu 
+  english_translation: Good morning (polite)
+- jp_word: こんにちは
+  roumaji: konnichiwa
+  english_translation: Good afternoon
+- jp_word: こんばんは
+  roumaji: konbanwa
+  english_translation: Good evening
+- jp_word: さようなら
+  roumaji: sayounara
+  english_translation: Good-bye
+- jp_word: おやすみ（なさい）
+  roumaji: oyasumi (nasai)
+  english_translation: Good night
+- jp_word: ありがとう
+  roumaji: arigatou
+  english_translation: Thank you
+- jp_word: ありがとうごじます
+  roumaji: arigatou gozaimasu
+  english_translation: Thank you (polite)
+- jp_word: いいえ
+  roumaji: iie
+  english_translation: No; Not at all
+- jp_word: いってきます
+  roumaji: ittekimasu
+  english_translation: I'll go and come back
+- jp_word: いってらっしゃい
+  roumaji: itterasshai
+  english_translation: Please go and come back
+- jp_word: ただいま
+  roumaji: tadaima
+  english_translation: I'm home
+- jp_word: おかえり（なさい）
+  roumaji: okaeri (nasai)
+  english_translation: Welcome home
+- jp_word: いただきます
+  roumaji: itadakimasu
+  english_translation: Thank you for the meal (before eating)
+- jp_word: ごちそうさま（でした）
+  roumaji: gochisousama (deshita)
+  english_translation: Thank you for the meal (after eating)
+- jp_word: はじめまして
+  roumaji: hajimemashite
+  english_translation: How do you do?
+- jp_word: よろしくおねがいします
+  roumaji: yoroshiku onegaishimasu
+  english_translation: Nice to meet you
+- jp_word: あの
+  roumaji: ano
+  english_translation: Um...
+- jp_word: いま
+  roumaji: ima
+  english_translation: Now
+- jp_word: えいご
+  roumaji: eigo
+  english_translation: English
+- jp_word: ええ
+  roumaji: ee
+  english_translation: yes
+- jp_word: 〜ご
+  roumaji: ~go
+  english_translation: ... language
+- jp_word: こうこう
+  roumaji: koukou
+  english_translation: High school
+- jp_word: ごご
+  roumaji: gogo
+  english_translation: PM
+- jp_word: ごぜん
+  roumaji: gozen
+  english_translation: AM
+- jp_word: 〜さい
+  roumaji: ~sai
+  english_translation: ... years old
+- jp_word: 〜さん
+  roumaji: ~san
+  english_translation: Mr./Mrs.
+- jp_word: 〜じ
+  roumaji: ~ji
+  english_translation: o'clock
+- jp_word: じん
+  roumaji: jin
+  english_translation: ... people
+- jp_word: せんこう
+  roumaji: senkou
+  english_translation: Major
+- jp_word: せんせい
+  roumaji: sensei
+  english_translation: Professor; teacher
+- jp_word: そうです
+  roumaji: sou desu
+  english_translation: That's right
+- jp_word: だいがく
+  roumaji: daigaku
+  english_translation: College; university
+- jp_word: でんわ
+  roumaji: denwa
+  english_translation: Telephone
+- jp_word: ともだち
+  roumaji: tomodachi
+  english_translation: Friend
+- jp_word: なまえ
+  roumaji: namae
+  english_translation: Name
+- jp_word: なん／なに
+  roumaji: nan / nani
+  english_translation: What
+- jp_word: にほん
+  roumaji: nihon
+  english_translation: Japan
+- jp_word: 〜ねんせい
+  roumaji: ~nensei
+  english_translation: ... year student
+- jp_word: はい
+  roumaji: hai
+  english_translation: Yes
+- jp_word: はん
+  roumaji: han
+  english_translation: Half
+- jp_word: ばんごう
+  roumaji: bangou
+  english_translation: Number
+- jp_word: りゅうがくせい
+  roumaji: ryuugakusei
+  english_translation: International Student
+- jp_word: わたし
+  roumaji: watashi
+  english_translation: I
+- jp_word: かんこく
+  roumaji: kankoku
+  english_translation: Korea
+- jp_word: ちゅうごく
+  roumaji: chuugoku
+  english_translation: China
+- jp_word: かがく
+  roumaji: kagaku
+  english_translation: Science
+- jp_word: けいざい
+  roumaji: keizai
+  english_translation: Economics
+- jp_word: こくさいかんけ
+  roumaji: kokusaikanke
+  english_translation: International Relations
+- jp_word: じんるいがく
+  roumaji: jinruigaku
+  english_translation: Anthropology
+- jp_word: せいじ
+  roumaji: seiji
+  english_translation: Politics
+- jp_word: ぶんがく
+  roumaji: bungaku
+  english_translation: Literature
+- jp_word: れきし
+  roumaji: rekishi
+  english_translation: History
+- jp_word: しごと
+  roumaji: shigoto
+  english_translation: Job; Work; Occupation
+- jp_word: いしゃ
+  roumaji: isha
+  english_translation: Doctor
+- jp_word: かいしゃいん
+  roumaji: kaishain
+  english_translation: Office worker
+- jp_word: こうこうせい
+  roumaji: koukousei
+  english_translation: High school student
+- jp_word: しゅふ
+  roumaji: shufu
+  english_translation: Housewife
+- jp_word: だいがくいんせい
+  roumaji: daigakuinsei
+  english_translation: Graduate student
+- jp_word: だいがくせい
+  roumaji: daigakusei
+  english_translation: College student
+- jp_word: べんごし
+  roumaji: bengoshi
+  english_translation: Lawyer
+- jp_word: おかあさん
+  roumaji: okaasan
+  english_translation: Mother
+- jp_word: おとうさん
+  roumaji: otousan
+  english_translation: Father
+- jp_word: おねえさん
+  roumaji: oneesan
+  english_translation: Older sister
+- jp_word: おにいさん
+  roumaji: oniisan
+  english_translation: Older brother
+- jp_word: いもうと
+  roumaji: imouto
+  english_translation: Younger sister
+- jp_word: おとうと
+  roumaji: otouto
+  english_translation: Younger brother
